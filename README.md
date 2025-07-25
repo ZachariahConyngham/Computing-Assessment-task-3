@@ -7,9 +7,6 @@ Each day 3 non-fiction and 3 fictional stories will be chosen at random from a d
 
 ## Design
 
-![logo e][confessions.com.png]
-
-
 
 Will include 5 pages
 1. Home page
@@ -43,4 +40,3 @@ Below this there will be a text box where the user can write up their story.
 Once the user has finished writing their story they can submit their story which will be added to a database. 
 
 
-[def]: confessions.com.png
