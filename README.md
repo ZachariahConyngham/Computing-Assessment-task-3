@@ -7,7 +7,7 @@ Each day 3 non-fiction and 3 fictional stories will be chosen at random from a d
 
 ## Design
 
-Will includes 5 pages
+Will include 5 pages
 1. Home page
 2. Story Page 1 (non-fiction)
 3. Story page 2 (fiction)
