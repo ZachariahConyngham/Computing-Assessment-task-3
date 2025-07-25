@@ -7,6 +7,10 @@ Each day 3 non-fiction and 3 fictional stories will be chosen at random from a d
 
 ## Design
 
+![logo e][confessions.com.png]
+
+
+
 Will include 5 pages
 1. Home page
 2. Story Page 1 (non-fiction)
@@ -34,6 +38,9 @@ This page will include a place to insert your email address or username and your
 
 ### Upload Page 
 To get to upload page you must be signed in. If the user is not signed in they will be redirected to the sign in page
-This page will include a mandatory form where the user will need to specify if there story is non-fiction or fiction (dropdown menu) and where the story is set (textbox). 
+This page will include a mandatory form where the user will need to specify if there story is non-fiction or fiction (dropdown menu), where the story is set (textbox) and whether the user wants their story to be able to be rated. 
 Below this there will be a text box where the user can write up their story. 
 Once the user has finished writing their story they can submit their story which will be added to a database. 
+
+
+[def]: confessions.com.png
