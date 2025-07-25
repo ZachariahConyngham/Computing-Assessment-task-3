@@ -2,8 +2,22 @@
 This website is about sharing stories.
 ## Website Goal
 The website will include stories about crimes or interesting occurances, some non-fiction and some fiction. 
+
 The user will be able to read either non-fiction or fictional stories and will also be able to include their own by signing in and writing their own story. Signing in will also allow the user to rate the story. The rating of a story will help decide if the story should be brought back on a later date.
+
 Each day 3 non-fiction and 3 fictional stories will be chosen at random from a database to be shown that day. Which stories are chosen will be affected by if they have been shown before, what their rating is, and how long ago they were shown.
+
+## Requirements
+
+# Functional
+1. Collects data on which stories people liked
+2. Uses data to 
+3. Shows new stories each day
+
+# Non-Functional
+1. Lets users view stories
+2. Lets users upload stories
+3. Lets users rate stories
 
 ## Design
 
@@ -34,7 +48,7 @@ This page will include a place to insert your email address or username and your
 
 
 ### Upload Page 
-To get to upload page you must be signed in. If the user is not signed in they will be redirected to the sign in page
+To get to upload page you must be signed in. If the user is not signed in they will be redirected to the sign in page.
 This page will include a mandatory form where the user will need to specify if there story is non-fiction or fiction (dropdown menu), where the story is set (textbox) and whether the user wants their story to be able to be rated. 
 Below this there will be a text box where the user can write up their story. 
 Once the user has finished writing their story they can submit their story which will be added to a database. 
