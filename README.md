@@ -34,7 +34,7 @@ Will include 5 pages
 ### Home Page 
 Includes buttons to navigate to each story page along with a button to sign in and different buttons to upload non-fiction and fictional storys respectively.
 Explantion of what is included in the website.
-![](Homepage.jpg)
+![](hompag.jpg)
 
 ### Story Page 1
 Non-fiction.
