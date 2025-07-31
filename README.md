@@ -10,14 +10,14 @@ Each day 3 non-fiction and 3 fictional stories will be chosen at random from a d
 ## Requirements
 
 # Functional
-1. Collects data on which stories people liked
-2. Uses data to 
-3. Shows new stories each day
+1. Collects data on which stories people liked and uses that data to determine what sort of stories to show in the future
+2. 
+3. Shows a new set stories each day 
 
 # Non-Functional
 1. Lets users view stories
 2. Lets users upload stories
-3. Lets users rate stories
+3. Minimun of to 1000 users at once
 
 ## Design
 
@@ -28,6 +28,8 @@ Will include 5 pages
 3. Story page 2 (fiction)
 4. Sign In/Sign up Page
 5. Upload Page
+
+![design1](design1.jpg)
 
 ### Home Page 
 Includes buttons to navigate to each story page along with a button to sign in and different buttons to upload non-fiction and fictional storys respectively.
