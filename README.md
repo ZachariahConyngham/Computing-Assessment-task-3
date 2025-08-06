@@ -19,7 +19,7 @@ Each day 3 non-fiction and 3 fictional stories will be chosen at random from a d
 2. Lets users upload stories
 3. Minimun of to 1000 users at once
 
-## Design
+# Design 1
 
 
 Will include 5 pages
@@ -57,3 +57,30 @@ Below this there will be a text box where the user can write up their story.
 Once the user has finished writing their story they can submit their story which will be added to a database. 
 
 ![](writingpage.jpg)
+
+
+# Design 2
+Each Page will include the same functions and non-functions.
+
+1. Home page
+Collects Story data from the featured story
+
+2. Story Page 1 (non-fiction)
+Collects data including the ratings, how many pages the user has viewed and any comments (Story data)
+Uses the data to decide what stories are shown each day.
+
+3. Story page 2 (fiction)
+Collects Story data
+Uses data to decide what stories are shown each day
+
+4. Sign In/Sign up Page
+Collects the users email, password and username.
+
+5. Upload Page
+Collects the story name, the story, whether it is non-fiction or not, the amount of words and whether the story can be rated. This data will be stored of a spreadsheet where the story will be given an ID.
+
+
+
+The spreadsheet will collect and organise the data like this
+![](spreadsheetdraft.jpg)
+
