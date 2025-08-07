@@ -64,31 +64,54 @@ Each Page will include the same functions and non-functions.
 ![](Design2.jpg)
 
 1. Home page
+2. Story Page 1 (Non-fiction)
+3. Story page 2 (Fiction)
+4. Sign In/Sign up Page
+5. Upload Page
+
+
+### Home page
 Collects Story data from the featured story
 ![](hompag2.jpg)
 
-2. Story Page 1 (non-fiction)
+### Story Page 1 (non-fiction)
 Collects data including the ratings, how many pages the user has viewed and any comments (Story data)
 Uses the data to decide what stories are shown each day.
 ![](storypag2.1.jpg)
 
-3. Story page 2 (fiction)
+### Story page 2 (fiction)
 Collects Story data
 Uses data to decide what stories are shown each day
 ![](storypag2.2.jpg)
 
-4. Sign In/Sign up Page
+### Sign In/Sign up Page
 Collects the users email, password and username.
 ![](loginpag2.jpg)
 
-5. Upload Page
-Collects the story name, the story, whether it is non-fiction or not, the amount of words and whether the story can be rated. This data will be stored of a spreadsheet where the story will be given an ID.
+### Upload Page
+Collects the story name, the story, whether it is non-fiction or not, the amount of words and whether the story can be rated. 
 ![](writingpag2.jpg)
 
 
+### Data Collection
 
-Red Border to call attention to it. white background to highlight other colours. 
+All data will collected and stored on a spreadsheet where each the story will be given an ID. Then each story will have:
+1. A Story ID
+2. A name
+3. A class (fiction or non-fiction)
+4. Word count
+5. If the story is rateable
+6. Average rating
+7. Average Pages viewed per user
+8. Amount of comments
+9. Author username
+10. Author email
+11. The actual story
 
+
+Story ID, a name, whether it is fiction or not, the word count, 
 The spreadsheet will collect and organise the data like this
+
+
 ![](spreadsheetdraft.jpg)
 
