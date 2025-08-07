@@ -61,23 +61,31 @@ Once the user has finished writing their story they can submit their story which
 
 # Design 2
 Each Page will include the same functions and non-functions.
+![](Design2.jpg)
 
 1. Home page
 Collects Story data from the featured story
+![](hompag2.jpg)
 
 2. Story Page 1 (non-fiction)
 Collects data including the ratings, how many pages the user has viewed and any comments (Story data)
 Uses the data to decide what stories are shown each day.
+![](storypag2.1.jpg)
 
 3. Story page 2 (fiction)
 Collects Story data
 Uses data to decide what stories are shown each day
+![](storypag2.2.jpg)
 
 4. Sign In/Sign up Page
 Collects the users email, password and username.
+![](loginpag2.jpg)
 
 5. Upload Page
 Collects the story name, the story, whether it is non-fiction or not, the amount of words and whether the story can be rated. This data will be stored of a spreadsheet where the story will be given an ID.
+![](writingpag2.jpg)
+
+
 
 Red Border to call attention to it. white background to highlight other colours. 
 
