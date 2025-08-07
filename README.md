@@ -79,7 +79,7 @@ Collects the users email, password and username.
 5. Upload Page
 Collects the story name, the story, whether it is non-fiction or not, the amount of words and whether the story can be rated. This data will be stored of a spreadsheet where the story will be given an ID.
 
-
+Red Border to call attention to it. white background to highlight other colours. 
 
 The spreadsheet will collect and organise the data like this
 ![](spreadsheetdraft.jpg)
