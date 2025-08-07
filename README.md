@@ -95,7 +95,7 @@ Collects the story name, the story, whether it is non-fiction or not, the amount
 
 ### Data Collection
 
-All data will collected and stored on a spreadsheet where each the story will be given an ID. Then each story will have:
+All data will collected and stored on a spreadsheet where each the story will be given an ID to help sort through the stories better. Once this is complete, each story will have:
 1. A Story ID
 2. A name
 3. A class (fiction or non-fiction)
@@ -109,9 +109,7 @@ All data will collected and stored on a spreadsheet where each the story will be
 11. The actual story
 
 
-Story ID, a name, whether it is fiction or not, the word count, 
-The spreadsheet will collect and organise the data like this
-
+This is an example spreadsheet with the above organised with fake data:
 
 ![](spreadsheetdraft.jpg)
 
