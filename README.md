@@ -108,10 +108,11 @@ All data will collected and stored on a spreadsheet where each the story will be
 10. Author email
 11. The actual story
 
-| Syntax | Description |
+| Items to change | How they were changed |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Taskbar | Changed from the top to the side |
+| Colour pallette | Changed to make each part stand out more |
+| Typography | Changed to make it easier to read |
 
 This is an example spreadsheet with the above organised with fake data:
 
