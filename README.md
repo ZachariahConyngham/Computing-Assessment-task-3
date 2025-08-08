@@ -108,6 +108,10 @@ All data will collected and stored on a spreadsheet where each the story will be
 10. Author email
 11. The actual story
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 This is an example spreadsheet with the above organised with fake data:
 
