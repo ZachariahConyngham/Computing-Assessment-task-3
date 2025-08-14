@@ -120,3 +120,36 @@ This is an example spreadsheet with the above organised with fake data:
 | Colour pallette | Changed to make each part stand out more |
 | Typography | Changed to make it easier to read |
 | Branding | Changed each part so the important parts were centered |
+
+
+# Algorithm
+
+## Sign up
+
+1. Declare variables: email, password, username, other_username
+2. Prompt user to enter email, password, username
+3. Get email, password, username
+4. IF username is equal to other_username, THEN
+    4.1. DO
+        4.1.1. Display error message, "Username has been taken”
+        4.1.2. Prompt user to enter username
+        4.1.3. Get username 
+    4.2. WHILE username is equal to other_username
+5. ENDIF
+6. IF password length is lesser than 6, THEN
+    4.1. DO
+        4.1.1. Display error message, "Password is too short”
+        4.1.2. Prompt user to enter password
+        4.1.3. Get password
+    4.2. WHILE password length is lesser than 6
+7. ENDIF
+8. IF password has less than 1 capital letter, THEN
+    4.1. DO
+        4.1.1. Display error message, "Password needs a capital letter”
+        4.1.2. Prompt user to enter password
+        4.1.3. Get password
+    4.2. WHILE password has capital_letter lesser than 1
+9. ENDIF
+10. Display email, password, username
+
+The algorithm will let any number of users sign up, each with different usernames and passwords. An increase in users will not affect the efficiency of the algorithm.
