@@ -137,18 +137,18 @@ This is an example spreadsheet with the above organised with fake data:
     4.2. WHILE username is equal to other_username
 5. ENDIF
 6. IF password length is lesser than 6, THEN
-    4.1. DO
-        4.1.1. Display error message, "Password is too short”
-        4.1.2. Prompt user to enter password
-        4.1.3. Get password
-    4.2. WHILE password length is lesser than 6
+6. 1. DO
+6. 1. 1. Display error message, "Password is too short”
+6. 1. 2. Prompt user to enter password
+6. 1. 3. Get password
+6. 2. WHILE password length is lesser than 6
 7. ENDIF
 8. IF password has less than 1 capital letter, THEN
-    4.1. DO
-        4.1.1. Display error message, "Password needs a capital letter”
-        4.1.2. Prompt user to enter password
-        4.1.3. Get password
-    4.2. WHILE password has capital_letter lesser than 1
+8. 1. DO
+8. 1. 1. Display error message, "Password needs a capital letter”
+8. 1. 2. Prompt user to enter password
+8. 1. 3. Get password
+8. 2. WHILE password has capital_letter lesser than 1
 9. ENDIF
 10. Display email, password, username
 
