@@ -176,7 +176,7 @@ Test steps:
 3. Enter valid username, email and password
 4. Click Sign Up
 Expected result: User data is added to database, user is able to Sign in
-
+Priority: High
 
 ## Test Case 2
 Test Case ID: TC002
@@ -188,4 +188,4 @@ Test steps:
 3. Enter valid username/email and password
 4. Click Log In
 Expected result: User data is added to database, user is able to rate and comment on stories
-
+Priority: High
