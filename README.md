@@ -153,3 +153,28 @@ This is an example spreadsheet with the above organised with fake data:
 10. Display email, password, username
 
 The algorithm will let any number of users sign up, each with different usernames and passwords. An increase in users will not affect the efficiency of the algorithm.
+
+
+## Test Case 1
+Test Case ID: TC001
+Test Case name: User Sign Up
+Preconditions: User does not have an account
+Test steps:
+1. Open the website
+2. Navigate to the sign up page
+3. Enter valid username, email and password
+4. Click Sign Up
+Expected result: User data is added to database, user is able yo Sign in
+
+
+## Test Case 2
+Test Case ID: TC002
+Test Case name: User Log In
+Preconditions: User has an account
+Test steps:
+1. Open the website
+2. Navigate to the log in page
+3. Enter valid username/email and password
+4. Click Log In
+Expected result: User data is added to database, user is able to rate and comment on stories
+
