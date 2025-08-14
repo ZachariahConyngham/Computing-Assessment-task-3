@@ -150,9 +150,20 @@ This is an example spreadsheet with the above organised with fake data:
 8. 1. 3. Get password
 8. 2. WHILE password has capital_letter lesser than 1
 9. ENDIF
-10. Display email, password, username
+10. IF email has been used, THEN
+10. 1. DO
+10. 1. 1. Display error message, "Email is in use”
+10. 1. 2. Prompt user to enter email
+10. 1. 3. Get email
+10. 2. WHILE email has been used
+10. ENDIF
+11. Display email, password, username
 
 The algorithm will let any number of users sign up, each with different usernames and passwords. An increase in users will not affect the efficiency of the algorithm.
+
+![](algorithm1.jpg)
+![](Algorithm2.jpg)
+![](Algorithm3.jpg)
 
 
 ## Test Case 1
@@ -164,7 +175,7 @@ Test steps:
 2. Navigate to the sign up page
 3. Enter valid username, email and password
 4. Click Sign Up
-Expected result: User data is added to database, user is able yo Sign in
+Expected result: User data is added to database, user is able to Sign in
 
 
 ## Test Case 2
