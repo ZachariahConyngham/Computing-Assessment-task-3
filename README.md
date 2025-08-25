@@ -192,8 +192,10 @@ The algorithm will let any number of users sign up, each with different username
 
 
 # SQL DATABASE
-
 I created 2 spreadsheets, 1 for the userdata and other for the story data. 
+![](Storydatabase.jpg)
+![](userdatadatabase.jpg)
+
 ## Queries
 1. SELECT * FROM Story WHERE class LIKE 'fiction' AND rating LIKE '4.9';
 2. SELECT DISTINCT rating,author FROM Story WHERE class LIKE 'fiction';
