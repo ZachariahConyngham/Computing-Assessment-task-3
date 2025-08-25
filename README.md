@@ -29,26 +29,26 @@ Will include 5 pages
 4. Sign In/Sign up Page
 5. Upload Page
 
-![](design1.jpg)
+![](images/design1.jpg)
 
 ### Home Page 
 Includes buttons to navigate to each story page along with a button to sign in and different buttons to upload non-fiction and fictional storys respectively.
 Explantion of what is included in the website.
-![](hompag.jpg)
+![](images/hompag.jpg)
 
 ### Story Page 1
 Non-fiction.
 There will be a story in the centre on the page with arrows that let you flip through up to 3 stories. There will be a button to get back to the Home page and a button to upload a non-fiction story. The button will take the user to the Upload page with the story already being selected as non-fiction.
-![](nonfictionpage.jpg)
+![](images/nonfictionpage.jpg)
 
 ### Story Page 2
 Fiction.
 There will be a story in the centre on the page with arrows that let you flip through up to 3 stories. There will be a button to get back to the Home page and a button to upload a fictional story. The button will take the user to the Upload page with the story already being selected as fiction.
-![](fictionpage.jpg)
+![](images/fictionpage.jpg)
 
 ### Sign In/Sign up Page
 This page will include a place to insert your email address or username and your password to sign in or a link to a place where the user can insert their email address and create a username and password. Signing in lets the user upload their own stories, fictional or not.
-![](loginpage.jpg)
+![](images/loginpage.jpg)
 
 ### Upload Page 
 To get to upload page you must be signed in. If the user is not signed in they will be redirected to the sign in page.
@@ -56,12 +56,12 @@ This page will include a mandatory form where the user will need to specify if t
 Below this there will be a text box where the user can write up their story. 
 Once the user has finished writing their story they can submit their story which will be added to a database. 
 
-![](writingpage.jpg)
+![](images/writingpage.jpg)
 
 
 # Design 2
 Each Page will include the same functions and non-functions.
-![](Design2.jpg)
+![](images/Design2.jpg)
 
 1. Home page
 2. Story Page 1 (Non-fiction)
@@ -72,25 +72,25 @@ Each Page will include the same functions and non-functions.
 
 ### Home page
 Collects Story data from the featured story
-![](hompag2.jpg)
+![](images/hompag2.jpg)
 
 ### Story Page 1 (non-fiction)
 Collects data including the ratings, how many pages the user has viewed and any comments (Story data)
 Uses the data to decide what stories are shown each day.
-![](storypag2.1.jpg)
+![](images/storypag2.1.jpg)
 
 ### Story page 2 (fiction)
 Collects Story data
 Uses data to decide what stories are shown each day
-![](storypag2.2.jpg)
+![](images/storypag2.2.jpg)
 
 ### Sign In/Sign up Page
 Collects the users email, password and username.
-![](loginpag2.jpg)
+![](images/loginpag2.jpg)
 
 ### Upload Page
 Collects the story name, the story, whether it is non-fiction or not, the amount of words and whether the story can be rated. 
-![](writingpag2.jpg)
+![](images/writingpag2.jpg)
 
 
 ### Data Collection
@@ -111,7 +111,7 @@ All data will collected and stored on a spreadsheet where each the story will be
 
 This is an example spreadsheet with the above organised with fake data:
 
-![](spreadsheetdraft.jpg)
+![](images/spreadsheetdraft.jpg)
 
 
 | Items to change | How they were changed |
@@ -161,9 +161,9 @@ This is an example spreadsheet with the above organised with fake data:
 
 The algorithm will let any number of users sign up, each with different usernames and passwords. An increase in users will not affect the efficiency of the algorithm.
 
-![](algorithm1.jpg)
-![](Algorithm2.jpg)
-![](Algorithm3.jpg)
+![](images/algorithm1.jpg)
+![](images/Algorithm2.jpg)
+![](images/Algorithm3.jpg)
 
 
 ## Test Case 1
@@ -193,7 +193,7 @@ The algorithm will let any number of users sign up, each with different username
 
 # SQL DATABASE
 I created 2 spreadsheets, 1 for the userdata and other for the story data. 
-![](Storydatabase.jpg)
+![](images/Storydatabase.jpg)
 ![](images/userdatadatabase.jpg)
 
 ## Queries
