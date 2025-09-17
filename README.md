@@ -207,4 +207,5 @@ I created 2 spreadsheets, 1 for the userdata and other for the story data.
 
 5. SELECT name,author,class,wordcount,story FROM Story WHERE rating LIKE '4.9';
 
-
+# Website Creation
+I have created 5 pages and have started working on the functionality of those pages. 
