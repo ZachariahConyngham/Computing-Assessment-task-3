@@ -209,3 +209,22 @@ I created 2 spreadsheets, 1 for the userdata and other for the story data.
 
 # Website Creation
 I have created 5 pages and have started working on the functionality of those pages. 
+
+# Lighthouse report 
+![](images/lighthousehomepage.png)
+![](images/lighthousefiction.png)
+![](images/lighthousenonfiction.png)
+![](images/lighthousesignin.png)
+![](images/lighthouseupload.png)
+
+# Adding Interactivity
+I have implemented the ability to view stories, log in and upload your own stories.
+
+
+
+# HOW TO USE
+1. Download and extract fiels to visual studio or visual studio code.
+2. Open VS code 
+3. Open the terminal
+4. run "cd Flask_PWA_Programming_For_The_Web_Task_Template"
+5. Type and enter "python main.py"
