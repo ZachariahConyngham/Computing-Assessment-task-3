@@ -216,6 +216,8 @@ I have created 5 pages and have started working on the functionality of those pa
 ![](/lighthousenonfiction.png)
 ![](/lighthousesignin.png)
 ![](/lighthouseupload.png)
+My best practises is low because it haven't used https or redirected http traffic to https.
+The accesibility is low because my background and foreground colours do not have a sufficient contrast ratio
 
 # Adding Interactivity
 I have implemented the ability to view stories, log in and upload your own stories.
@@ -223,7 +225,7 @@ I have implemented the ability to view stories, log in and upload your own stori
 
 
 # HOW TO USE
-1. Download and extract fiels to visual studio or visual studio code.
+1. Download and extract files to visual studio or visual studio code.
 2. Open VS code 
 3. Open the terminal
 4. run "cd Flask_PWA_Programming_For_The_Web_Task_Template"
