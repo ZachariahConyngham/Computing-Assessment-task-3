@@ -163,7 +163,7 @@ The algorithm will let any number of users sign up, each with different username
 
 ![](/images/algorithm1.jpg)
 ![](/images/Algorithm2.jpg)
-![](images/Algorithm3.jpg)
+![](/images/Algorithm3.jpg)
 
 
 ## Test Case 1
